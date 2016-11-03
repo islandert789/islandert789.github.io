@@ -1,5 +1,5 @@
 body {
-    width: 700px;
+    width: 50%;
     margin: auto;
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
@@ -7,5 +7,5 @@ h1 {
     text-align: center;
 }
 img {
-    width: 700px;
+    width: 70%;
 }
